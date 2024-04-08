@@ -1,4 +1,4 @@
-![image](https://github.com/Duc-dev-starter/My-portfolio/assets/135418689/9e19ae0b-7d79-44b7-9e63-b1990716b21c)This Portfolio project is a personal website created to introduce myself and my projects. The website includes About, Contact, Skills sections and an interactive Header/Footer. The project was deployed using Firebase.
+This Portfolio project is a personal website created to introduce myself and my projects. The website includes About, Contact, Skills sections and an interactive Header/Footer. The project was deployed using Firebase.
 ![image](https://github.com/Duc-dev-starter/My-portfolio/assets/135418689/5fd6e97b-a6cf-405d-930a-44d3cce66cb5)
 
 Feature
